@@ -14,6 +14,8 @@ GPS_list=['LPelTilt','LHipFlex','LKneeFlex','LAnkDors',
            'RHipAbd','RHipRot','RFootProg']
 
 
+#experimenting
+
 class State:
     patient = []
     control = [] 
